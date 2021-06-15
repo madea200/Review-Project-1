@@ -1,0 +1,19 @@
+.header {
+    color: blue;
+}
+
+body {
+       background-color:green;
+        color:white;
+}
+div {
+      color:black;
+      display:flex;
+      justify-content:center;
+}
+img {
+     width: 40%;
+    border-style:dashed;
+     margin:25px;
+    border-color:red;
+}
